@@ -12,3 +12,5 @@
 *YOU CAN CONTACT ME THROUGH WHATSAPP* 
 
 *MY NUMBER*; http://wa.me/+919188434967
+
+<a href="https://github.com/Hisham-muhammed"><img title="Author" src="https://img.shields.io/badge/Author-hisham-muhammed/Sophia?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
