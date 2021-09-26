@@ -13,4 +13,4 @@
 
 *MY NUMBER*;
 
-<a href="http://wa.me/+919188434967"><img title="Click" src="https://img.shields.io/badge/Author-Evil-priest/Sophia?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="http://wa.me/+919188434967"><img title="Click" src="https://img.shields.io/badge/Author-priest/Sophia?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
