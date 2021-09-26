@@ -1,4 +1,5 @@
 # Evil-priest 
  
  
- https://media.giphy.com/media/EeaZoPoExyzNR6gtGl/giphy.gif?cid=790b7611495ecf1556cd82f261a28448765edf812fdab2dd&rid=giphy.gif&ct=g
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bomber+Escort&color=F70000&size=30&lines=HAI+GUYS,+WELCOME+TO+MY+PROFILE)](https://bit.ly/3lC8I7t)
