@@ -23,5 +23,5 @@
 
 <a href="http://wa.me/+919188434967"><img title="hi" src="https://img.shields.io/badge/Author-priest/Sophia?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 
-<div align
+<img border-radius: 15px src="https://i.imgur.com/c5E81Cu.jpeg" width="200" height="200"/> 
 
