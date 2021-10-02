@@ -4,7 +4,7 @@
 <img border-radius: 15px src="https://i.imgur.com/c5E81Cu.jpeg" width="200" height="200"/> 
 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bomber+Escort&color=800080&size=20&lines=HAI+GUYS,+WELCOME+TO+MY+PROFILE)](https://bit.ly/3lC8I7t)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bomber+Escort&color=00FFFF&size=20&lines=HAI+GUYS,+WELCOME+TO+MY+PROFILE)](https://bit.ly/3lC8I7t)
  
  
 *HAI GUYS AM PRIEST, FROM KERALA 💖* 
