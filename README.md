@@ -21,7 +21,7 @@
 
 *CLICK HERE 👇*
 
-<a href="http://wa.me/+919188434967"><img title="hi" src="https://img.shields.io/badge/HERE 😍-priest/Sophia?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="http://wa.me/+919188434967"><img title="hi" src="https://img.shields.io/badge/HERE 😍-priest/Sophia?color=87CEEB&style=for-the-badge&logo=whatsapp"></a>
 
  <a href="https://www.instagram.com/priest_viking"><img title="hi" src="https://img.shields.io/badge/HERE 😍-priest/Sophia?color=90ee90&style=for-the-badge&logo=instagram"></a>
 
