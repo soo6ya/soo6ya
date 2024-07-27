@@ -1,35 +1,32 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-        }
-        .profile-img {
-            max-width: 200px;
-            border-radius: 50%;
-        }
-        .contact-button {
-            display: inline-block;
-            margin: 10px;
-            padding: 10px 20px;
-            background-color: #333;
-            color: #fff;
-            text-decoration: none;
-            border-radius: 5px;
-        }
-    </style>
-</head>
-<body>
-    <img src="https://i.imgur.com/c5E81Cu.jpeg" alt="Your GitHub Profile" class="profile-img">
-    <h1>soo6ya</h1>
-    <p>GitHub Bio/Description</p>
-    <a href="https://github.com/soo6ya" class="contact-button">GitHub</a>
-    <a href="https://www.instagram.com/soo6ya_" class="contact-button">instagram</a>
-    <a href="https://https.wa.me/919496673835" class="contact-button">whatsapp</a>
-</body>
-</html>
+# Soo6ya 
+
+ 
+
+<div align="center">
+<img border-radius: 15px src="https://i.imgur.com/c5E81Cu.jpeg" width="200" height="200"/> 
+
+ 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bomber+Escort&color=00FFFF&size=20&lines=HAI+GUYS,+WELCOME+TO+MY+PROFILE)](https://bit.ly/3lC8I7t)
+
+ 
+
+ 
+
+HAI GUYS AM SURYA DEV 
+
+EDITOR/GFX ARTIS
+
+INTRESTED IN CODING
+
+YOU CAN CONTACT ME THROUGH WHATSAPP,INSTAGRAM 
+
+CLICK HERE 👇
+
+<a href="http://wa.me/+919496673836"><img title="hi" src="https://img.shields.io/badge/HERE 😍-priest/Sophia?color=FF6347&style=for-the-badge&logo=whatsapp"></a>
+
+ <a href="https://www.instagram.com/soo6ya_"><img title="hi" src="https://img.shields.io/badge/HERE 😍-priest/Sophia?color=90ee90&style=for-the-badge&logo=instagram"></a>
+
+GFX PAGE HERE 👇
+
+ <a href="https://www.instagram.com/ft.soo6ya"><img title="hi" src="https://img.shields.io/badge/HERE 😍-priest/Sophia?color=90ee90&style=for-the-badge&logo=instagram"></a>
