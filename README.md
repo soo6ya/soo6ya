@@ -13,7 +13,7 @@
 </p>
 
 - 🔭 I’m currently studying at [Presidency University](https://presidencyuniversity.in/)  
-- 🌱 I’m currently learning **Software Engineering**  
+- 🌱 Learning **Software Engineering**  
 - 📫 How to reach me **soo6ya.gfx@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
