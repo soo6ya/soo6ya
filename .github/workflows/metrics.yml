@@ -26,19 +26,28 @@ jobs:
 
           config_timezone: Asia/Kolkata
 
+          # Contribution calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
+          # Most used programming languages
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
 
+          # Coding habits
           plugin_habits: yes
+          plugin_habits_from: 100
 
+          # GitHub Projects
           plugin_projects: yes
+          plugin_projects_descriptions: yes
 
+          # Repository topics
           plugin_topics: yes
           plugin_topics_sort: stars
           plugin_topics_limit: 15
 
+          # Output file
           filename: github-metrics.svg
