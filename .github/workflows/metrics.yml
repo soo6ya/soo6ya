@@ -16,19 +16,16 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          # GitHub token
+          # =========================================================
+          # BASIC CONFIGURATION
+          # =========================================================
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # GitHub username
           user: soo6ya
 
-          # Theme
           template: classic
 
-          # Main profile information
           base: header, activity, community, repositories, metadata
 
-          # Timezone
           config_timezone: Asia/Kolkata
 
           # =========================================================
@@ -46,26 +43,57 @@ jobs:
           plugin_languages_threshold: 0%
 
           # =========================================================
-          # REPOSITORY TOPICS
+          # REPOSITORIES
+          # =========================================================
+          plugin_repositories: yes
+
+          plugin_repositories_featured: |
+            soo6ya/AI-Network-Anomaly-Detection
+            soo6ya/tg-converter-bot
+            soo6ya/internet-speed-test
+
+          plugin_repositories_pinned: 0
+          plugin_repositories_starred: 0
+          plugin_repositories_random: 0
+
+          # =========================================================
+          # LINES OF CODE
+          # =========================================================
+          plugin_lines: yes
+          plugin_lines_sections: base, repositories
+
+          # =========================================================
+          # ACHIEVEMENTS
+          # =========================================================
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+
+          # =========================================================
+          # STARRED TOPICS
           # =========================================================
           plugin_topics: yes
           plugin_topics_sort: stars
           plugin_topics_limit: 15
 
           # =========================================================
-          # FOLLOW-UP / ACTIVITY
+          # RECENTLY STARRED REPOSITORIES
+          # =========================================================
+          plugin_stars: yes
+          plugin_stars_limit: 5
+
+          # =========================================================
+          # FOLLOW-UP STATISTICS
           # =========================================================
           plugin_followup: yes
 
           # =========================================================
           # DISABLED PLUGINS
-          # These were showing errors in your profile
           # =========================================================
 
-          # Projects disabled because of token scope error
+          # Disabled because it previously caused token-scope errors
           plugin_projects: no
 
-          # Coding habits disabled because of plugin error
+          # Disabled because it previously returned an unexpected error
           plugin_habits: no
 
           # =========================================================
