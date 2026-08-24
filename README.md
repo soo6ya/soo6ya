@@ -54,19 +54,36 @@ I enjoy building practical projects, learning new technologies, and exploring ho
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 🔎 AI Network Anomaly Detection
+### 🔎 [AI Network Anomaly Detection](https://github.com/soo6ya/AI-Network-Anomaly-Detection)
 
-Network monitoring and anomaly detection project using machine learning.
+AI-powered network monitoring and anomaly detection system designed to identify unusual network traffic and potential security threats.
 
-### 🤖 Telegram File Converter Bot
+**Tech:** Python • Machine Learning • Networking
 
-Telegram bot for converting files between different formats.
+[🔗 View Project](https://github.com/soo6ya/AI-Network-Anomaly-Detection)
 
-### 📝 Online Notepad
+---
 
-A web-based note-taking application with user authentication and cloud-accessible notes.
+### 🤖 [Telegram File Converter Bot](https://github.com/soo6ya/tg-converter-bot)
+
+A Telegram bot for converting files between different formats with automated processing.
+
+**Tech:** Python • Telegram Bot API • Docker
+
+[🔗 View Project](https://github.com/soo6ya/tg-converter-bot)
+
+---
+
+### 🌐 [Internet Speed Test](https://github.com/soo6ya/internet-speed-test)
+
+A web-based internet speed testing tool that measures network performance directly from the browser.
+
+**Tech:** JavaScript • HTML • CSS • Networking
+
+[🔗 View Project](https://github.com/soo6ya/internet-speed-test)
+
 
 ---
 
