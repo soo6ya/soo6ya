@@ -16,39 +16,59 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          # Token with additional scopes such as read:project
-          token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+          # GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
 
+          # GitHub username
           user: soo6ya
 
+          # Theme
           template: classic
 
+          # Main profile information
           base: header, activity, community, repositories, metadata
 
+          # Timezone
           config_timezone: Asia/Kolkata
 
-          # Contribution calendar
+          # =========================================================
+          # CONTRIBUTION CALENDAR
+          # =========================================================
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # Most used programming languages
+          # =========================================================
+          # PROGRAMMING LANGUAGES
+          # =========================================================
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
 
-          # Coding habits
-          plugin_habits: yes
-          plugin_habits_from: 100
-
-          # GitHub Projects
-          plugin_projects: yes
-          plugin_projects_descriptions: yes
-
-          # Repository topics
+          # =========================================================
+          # REPOSITORY TOPICS
+          # =========================================================
           plugin_topics: yes
           plugin_topics_sort: stars
           plugin_topics_limit: 15
 
-          # Output
+          # =========================================================
+          # FOLLOW-UP / ACTIVITY
+          # =========================================================
+          plugin_followup: yes
+
+          # =========================================================
+          # DISABLED PLUGINS
+          # These were showing errors in your profile
+          # =========================================================
+
+          # Projects disabled because of token scope error
+          plugin_projects: no
+
+          # Coding habits disabled because of plugin error
+          plugin_habits: no
+
+          # =========================================================
+          # OUTPUT
+          # =========================================================
           filename: github-metrics.svg
