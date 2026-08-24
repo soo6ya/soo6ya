@@ -16,7 +16,8 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          # Token with additional scopes such as read:project
+          token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
 
           user: soo6ya
 
@@ -49,5 +50,5 @@ jobs:
           plugin_topics_sort: stars
           plugin_topics_limit: 15
 
-          # Output file
+          # Output
           filename: github-metrics.svg
