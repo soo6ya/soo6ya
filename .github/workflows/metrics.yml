@@ -43,14 +43,11 @@ jobs:
           plugin_languages_threshold: 0%
 
           # =========================================================
-          # REPOSITORIES
+          # FEATURED REPOSITORIES
           # =========================================================
           plugin_repositories: yes
 
-          plugin_repositories_featured: |
-            soo6ya/AI-Network-Anomaly-Detection
-            soo6ya/tg-converter-bot
-            soo6ya/internet-speed-test
+          plugin_repositories_featured: soo6ya/AI-Network-Anomaly-Detection, soo6ya/tg-converter-bot, soo6ya/internet-speed-test
 
           plugin_repositories_pinned: 0
           plugin_repositories_starred: 0
@@ -63,23 +60,11 @@ jobs:
           plugin_lines_sections: base, repositories
 
           # =========================================================
-          # ACHIEVEMENTS
-          # =========================================================
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-
-          # =========================================================
           # STARRED TOPICS
           # =========================================================
           plugin_topics: yes
           plugin_topics_sort: stars
           plugin_topics_limit: 15
-
-          # =========================================================
-          # RECENTLY STARRED REPOSITORIES
-          # =========================================================
-          plugin_stars: yes
-          plugin_stars_limit: 5
 
           # =========================================================
           # FOLLOW-UP STATISTICS
@@ -90,11 +75,14 @@ jobs:
           # DISABLED PLUGINS
           # =========================================================
 
-          # Disabled because it previously caused token-scope errors
+          # Previously caused token-scope error
           plugin_projects: no
 
-          # Disabled because it previously returned an unexpected error
+          # Previously caused unexpected error
           plugin_habits: no
+
+          # Previously caused errors
+          plugin_achievements: no
 
           # =========================================================
           # OUTPUT
