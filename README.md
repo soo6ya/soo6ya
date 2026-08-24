@@ -6,7 +6,6 @@ I'm a BCA student passionate about **Computer Networking, Linux, Cybersecurity, 
 
 I enjoy building practical projects, learning new technologies, and exploring how networks and systems work.
 
-```markdown
 <p align="center">
 
 <img src="https://img.shields.io/badge/Networking-0A84FF?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking">
@@ -22,6 +21,7 @@ I enjoy building practical projects, learning new technologies, and exploring ho
 <img src="https://img.shields.io/badge/Cybersecurity-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity">
 
 </p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -100,7 +100,6 @@ A web-based internet speed testing tool that measures network performance direct
 
 [🔗 View Project](https://github.com/soo6ya/internet-speed-test)
 
-
 ---
 
 ## 🤝 Connect With Me
@@ -108,15 +107,15 @@ A web-based internet speed testing tool that measures network performance direct
 <p align="center">
 
 <a href="https://github.com/soo6ya">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/soo6ya">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="mailto:suryadevomkaram@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:soo6ya.gfx@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </p>
