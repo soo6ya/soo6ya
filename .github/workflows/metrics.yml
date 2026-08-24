@@ -43,23 +43,6 @@ jobs:
           plugin_languages_threshold: 0%
 
           # =========================================================
-          # FEATURED REPOSITORIES
-          # =========================================================
-          plugin_repositories: yes
-
-          plugin_repositories_featured: soo6ya/AI-Network-Anomaly-Detection, soo6ya/tg-converter-bot, soo6ya/internet-speed-test
-
-          plugin_repositories_pinned: 0
-          plugin_repositories_starred: 0
-          plugin_repositories_random: 0
-
-          # =========================================================
-          # LINES OF CODE
-          # =========================================================
-          plugin_lines: yes
-          plugin_lines_sections: base, repositories
-
-          # =========================================================
           # STARRED TOPICS
           # =========================================================
           plugin_topics: yes
@@ -72,16 +55,28 @@ jobs:
           plugin_followup: yes
 
           # =========================================================
-          # DISABLED PLUGINS
+          # LINES OF CODE
+          # =========================================================
+          plugin_lines: yes
+          plugin_lines_sections: base, repositories
+
+          # =========================================================
+          # EXPLICITLY DISABLED PLUGINS
           # =========================================================
 
-          # Previously caused token-scope error
+          # Featured repositories - disabled because it caused errors
+          plugin_repositories: no
+
+          # Recently starred repositories - disabled
+          plugin_stars: no
+
+          # GitHub Projects - disabled because of token scope error
           plugin_projects: no
 
-          # Previously caused unexpected error
+          # Coding habits - disabled because of previous error
           plugin_habits: no
 
-          # Previously caused errors
+          # Achievements - disabled because of previous error
           plugin_achievements: no
 
           # =========================================================
