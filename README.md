@@ -6,6 +6,44 @@ I'm a BCA student passionate about **Computer Networking, Linux, Cybersecurity, 
 
 I enjoy building practical projects, learning new technologies, and exploring how networks and systems work.
 
+```markdown
+<p align="center">
+
+<a href="https://www.cisco.com/">
+<img src="https://img.shields.io/badge/Networking-0A84FF?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking">
+</a>
+
+<a href="https://www.linux.org/">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</a>
+
+<a href="https://www.docker.com/">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</a>
+
+<a href="https://www.wireshark.org/">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+</a>
+
+<a href="https://spring.io/">
+<img src="https://img.shields.io/badge/Java%20%26%20Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Java and Spring">
+</a>
+
+<a href="https://www.microsoft.com/windows/">
+<img src="https://img.shields.io/badge/IT%20Support-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="IT Support">
+</a>
+
+<a href="https://www.kali.org/">
+<img src="https://img.shields.io/badge/Cybersecurity-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity">
+</a>
+
+</p>
+```
+
 ---
 
 ## 🧑‍💻 About Me
